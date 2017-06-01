@@ -24,7 +24,7 @@ Additionally the user can elect to define some optional parameters:
   
   •	Robocopy Switches – Enables the user to evoke some advanced backup functionalities.
 
-Each script that is create is added to the scripts drop down list.  Giving the user to backup multiple directories and set their backup directories to unique locations.  A sequence of scripts can be saved as a *.cpy file format and loaded for repeated use.
+Each script that is create is added to the scripts drop down list.  Giving the user the ability to backup multiple directories and set their backup directories to unique locations.   A sequence of scripts can be saved as a *.cpy file format and loaded for repeated use.
 
 Application Description:
 
