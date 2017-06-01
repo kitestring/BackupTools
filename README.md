@@ -7,14 +7,21 @@ Industry: Time of Flight Mass Spectrometer Developer & Manufacturer
 Department: Hardware & Software Customer Support
 
 GUI: “GUI.png”
+
 From the GUI the user must define each of the following required parameters:
+
   •	Script Name – The name of the backup script.
+  
   •	Source Directory - Directory which contains the files and folders to be backed up. 
+  
   •	Backup Directory - The directory where the backup files and folders will be sent into.
+  
   •	Mirror – Defines the backup type as a mirror (or not).
 
 Additionally the user can elect to define some optional parameters:
+
   •	Log Directory – Defines the name and file path of a log file (text file) which contains information as to which files and directories     where were backup when a script is executed.
+  
   •	Robocopy Switches – Enables the user to evoke some advanced backup functionalities.
 
 Each script that is create is added to the scripts drop down list.  Giving the user to backup multiple directories and set their backup directories to unique locations.  A sequence of scripts can be saved as a *.cpy file format and loaded for repeated use.
